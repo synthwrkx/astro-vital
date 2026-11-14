@@ -1,0 +1,202 @@
+{
+ "exercise": {
+  "ared": "resistance",
+  "weights": "resistance",
+  "resistance": "resistance",
+  "lifting": "resistance",
+  "squats": "resistance",
+  "deadlifts": "resistance",
+  "strength": "resistance",
+  "bike": "aerobic",
+  "cycle": "aerobic",
+  "cevis": "aerobic",
+  "ergometer": "aerobic",
+  "treadmill": "aerobic",
+  "t2": "aerobic",
+  "running": "aerobic",
+  "run": "aerobic",
+  "cardio": "aerobic",
+  "aerobic": "aerobic"
+ },
+ "mood": {
+  "great": 5,
+  "excellent": 5,
+  "fantastic": 5,
+  "happy": 5,
+  "good": 4,
+  "positive": 4,
+  "pretty good": 4,
+  "fine": 3,
+  "okay": 3,
+  "ok": 3,
+  "meh": 3,
+  "so-so": 3,
+  "alright": 3,
+  "low": 2,
+  "down": 2,
+  "flat": 2,
+  "sad": 2,
+  "rough": 2,
+  "lonely": 2,
+  "homesick": 2,
+  "miserable": 1,
+  "terrible": 1,
+  "awful": 1,
+  "depressed": 1,
+  "hopeless": 1
+ },
+ "stress": {
+  "calm": 1,
+  "relaxed": 1,
+  "chill": 1,
+  "a bit stressed": 3,
+  "busy": 3,
+  "stressed": 4,
+  "anxious": 4,
+  "tense": 4,
+  "under pressure": 4,
+  "overwhelmed": 5,
+  "very stressed": 5,
+  "panicked": 5
+ },
+ "fatigue": {
+  "energetic": 1,
+  "fresh": 1,
+  "well rested": 1,
+  "rested": 2,
+  "a bit tired": 3,
+  "tired": 4,
+  "sleepy": 4,
+  "fatigued": 4,
+  "exhausted": 5,
+  "wiped out": 5,
+  "drained": 5,
+  "knackered": 5,
+  "wrecked": 5
+ },
+ "symptoms": {
+  "chest_pain": [
+   "chest pain",
+   "chest pressure",
+   "chest tightness",
+   "tight chest"
+  ],
+  "palpitations": [
+   "palpitations",
+   "heart racing",
+   "racing heart",
+   "irregular heartbeat",
+   "skipped beats"
+  ],
+  "faint": [
+   "fainted",
+   "passed out",
+   "blacked out",
+   "nearly fainted",
+   "near fainting"
+  ],
+  "dizziness": [
+   "dizzy",
+   "dizziness",
+   "lightheaded",
+   "light-headed",
+   "vertigo"
+  ],
+  "back_pain": [
+   "back pain",
+   "backache",
+   "sore back",
+   "back hurts",
+   "lower back"
+  ],
+  "joint_pain": [
+   "joint pain",
+   "sore joints",
+   "muscle pain",
+   "muscle ache",
+   "sore muscles",
+   "aching"
+  ],
+  "flank_pain": [
+   "flank pain",
+   "kidney pain",
+   "blood in urine",
+   "side pain"
+  ],
+  "sore_throat": [
+   "sore throat",
+   "cough",
+   "coughing",
+   "scratchy throat"
+  ],
+  "cold_sore": [
+   "cold sore",
+   "shingles",
+   "blister on lip",
+   "fever blister"
+  ],
+  "rash": [
+   "rash",
+   "itchy skin",
+   "skin irritation",
+   "hives"
+  ],
+  "wound": [
+   "cut won't heal",
+   "infected cut",
+   "slow healing",
+   "wound"
+  ],
+  "low_mood": [
+   "no motivation",
+   "lost interest",
+   "hopeless",
+   "depressed"
+  ],
+  "insomnia": [
+   "insomnia",
+   "couldn't sleep",
+   "can't sleep",
+   "trouble sleeping",
+   "woke up a lot",
+   "restless night",
+   "kept waking"
+  ],
+  "conflict": [
+   "argument",
+   "conflict",
+   "tension with",
+   "fell out with",
+   "annoyed with crew",
+   "friction"
+  ],
+  "nausea": [
+   "nausea",
+   "nauseous",
+   "vomited",
+   "threw up",
+   "queasy",
+   "sick to my stomach"
+  ],
+  "headache": [
+   "headache",
+   "head hurts",
+   "migraine",
+   "head ache"
+  ],
+  "congestion": [
+   "congestion",
+   "stuffy",
+   "puffy face",
+   "head fullness",
+   "blocked nose"
+  ],
+  "vision": [
+   "blurry",
+   "blurred vision",
+   "vision change",
+   "can't focus my eyes",
+   "eyesight"
+  ]
+ }
+}

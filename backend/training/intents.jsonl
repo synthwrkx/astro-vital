@@ -1,0 +1,178 @@
+{"text": "how am i doing", "intent": "status"}
+{"text": "what's my status", "intent": "status"}
+{"text": "give me an overview of my health", "intent": "status"}
+{"text": "summary of my health today", "intent": "status"}
+{"text": "am i ok", "intent": "status"}
+{"text": "how is my health", "intent": "status"}
+{"text": "status report", "intent": "status"}
+{"text": "overall how am i", "intent": "status"}
+{"text": "quick health check", "intent": "status"}
+{"text": "how am i looking today", "intent": "status"}
+{"text": "what is my current health status", "intent": "status"}
+{"text": "everything okay with me", "intent": "status"}
+{"text": "why is my status act now", "intent": "why_status"}
+{"text": "why am i flagged", "intent": "why_status"}
+{"text": "what's wrong with me", "intent": "why_status"}
+{"text": "explain my status", "intent": "why_status"}
+{"text": "why is it monitor", "intent": "why_status"}
+{"text": "why is something red", "intent": "why_status"}
+{"text": "what triggered the alert", "intent": "why_status"}
+{"text": "why did the app flag me", "intent": "why_status"}
+{"text": "what is causing my status", "intent": "why_status"}
+{"text": "explain the warnings", "intent": "why_status"}
+{"text": "why am i not nominal", "intent": "why_status"}
+{"text": "how is my sleep", "intent": "sleep"}
+{"text": "am i sleeping enough", "intent": "sleep"}
+{"text": "my sleep has been bad", "intent": "sleep"}
+{"text": "sleep trend", "intent": "sleep"}
+{"text": "how many hours did i sleep", "intent": "sleep"}
+{"text": "insomnia", "intent": "sleep"}
+{"text": "i can't sleep", "intent": "sleep"}
+{"text": "sleep quality this week", "intent": "sleep"}
+{"text": "is lack of sleep a problem", "intent": "sleep"}
+{"text": "how has my sleep been", "intent": "sleep"}
+{"text": "tired from poor sleep", "intent": "sleep"}
+{"text": "am i keeping up with exercise", "intent": "exercise"}
+{"text": "how is my exercise compliance", "intent": "exercise"}
+{"text": "ared sessions", "intent": "exercise"}
+{"text": "resistance exercise", "intent": "exercise"}
+{"text": "am i protecting my bones", "intent": "exercise"}
+{"text": "bone loss", "intent": "exercise"}
+{"text": "treadmill and bike", "intent": "exercise"}
+{"text": "workout minutes", "intent": "exercise"}
+{"text": "did i miss exercise", "intent": "exercise"}
+{"text": "muscle loss", "intent": "exercise"}
+{"text": "how much should i exercise", "intent": "exercise"}
+{"text": "countermeasures", "intent": "exercise"}
+{"text": "how is my heart rate", "intent": "cardio"}
+{"text": "blood pressure", "intent": "cardio"}
+{"text": "is my heart ok", "intent": "cardio"}
+{"text": "resting heart rate trend", "intent": "cardio"}
+{"text": "palpitations", "intent": "cardio"}
+{"text": "cardiovascular status", "intent": "cardio"}
+{"text": "my pulse is high", "intent": "cardio"}
+{"text": "heart health", "intent": "cardio"}
+{"text": "bp readings", "intent": "cardio"}
+{"text": "dizzy when standing", "intent": "cardio"}
+{"text": "do i have a fever", "intent": "immune"}
+{"text": "am i getting sick", "intent": "immune"}
+{"text": "infection", "intent": "immune"}
+{"text": "cold sore", "intent": "immune"}
+{"text": "rash on my skin", "intent": "immune"}
+{"text": "sore throat", "intent": "immune"}
+{"text": "immune system", "intent": "immune"}
+{"text": "temperature trend", "intent": "immune"}
+{"text": "feeling feverish", "intent": "immune"}
+{"text": "virus reactivation", "intent": "immune"}
+{"text": "how is my mood", "intent": "mood"}
+{"text": "i feel down", "intent": "mood"}
+{"text": "stress levels", "intent": "mood"}
+{"text": "feeling lonely", "intent": "mood"}
+{"text": "isolation is getting to me", "intent": "mood"}
+{"text": "am i depressed", "intent": "mood"}
+{"text": "mood trend", "intent": "mood"}
+{"text": "i feel anxious", "intent": "mood"}
+{"text": "crew conflict", "intent": "mood"}
+{"text": "tension with crew", "intent": "mood"}
+{"text": "mental health", "intent": "mood"}
+{"text": "i feel flat", "intent": "mood"}
+{"text": "how is my alertness", "intent": "alertness"}
+{"text": "reaction time", "intent": "alertness"}
+{"text": "pvt results", "intent": "alertness"}
+{"text": "am i fit for eva", "intent": "alertness"}
+{"text": "can i do the spacewalk", "intent": "alertness"}
+{"text": "attention lapses", "intent": "alertness"}
+{"text": "focus and concentration", "intent": "alertness"}
+{"text": "cognitive performance", "intent": "alertness"}
+{"text": "am i too tired to operate the robotic arm", "intent": "alertness"}
+{"text": "vigilance test", "intent": "alertness"}
+{"text": "radiation dose", "intent": "radiation"}
+{"text": "how much radiation have i received", "intent": "radiation"}
+{"text": "solar particle event", "intent": "radiation"}
+{"text": "career dose limit", "intent": "radiation"}
+{"text": "am i over my radiation budget", "intent": "radiation"}
+{"text": "dosimeter readings", "intent": "radiation"}
+{"text": "shielding", "intent": "radiation"}
+{"text": "radiation spike", "intent": "radiation"}
+{"text": "space weather", "intent": "radiation"}
+{"text": "projected dose", "intent": "radiation"}
+{"text": "headaches", "intent": "environment"}
+{"text": "why do i keep getting headaches", "intent": "environment"}
+{"text": "co2 levels", "intent": "environment"}
+{"text": "cabin air", "intent": "environment"}
+{"text": "my vision is blurry", "intent": "environment"}
+{"text": "eye problems", "intent": "environment"}
+{"text": "oxygen saturation", "intent": "environment"}
+{"text": "spo2", "intent": "environment"}
+{"text": "head congestion", "intent": "environment"}
+{"text": "sans", "intent": "environment"}
+{"text": "my weight", "intent": "weight"}
+{"text": "am i losing weight", "intent": "weight"}
+{"text": "body mass", "intent": "weight"}
+{"text": "nutrition", "intent": "weight"}
+{"text": "am i eating enough", "intent": "weight"}
+{"text": "food intake", "intent": "weight"}
+{"text": "calories", "intent": "weight"}
+{"text": "protein", "intent": "weight"}
+{"text": "weight loss trend", "intent": "weight"}
+{"text": "menu fatigue", "intent": "weight"}
+{"text": "what should i focus on", "intent": "plan"}
+{"text": "what should i do this week", "intent": "plan"}
+{"text": "give me a plan", "intent": "plan"}
+{"text": "priorities for today", "intent": "plan"}
+{"text": "what are my action items", "intent": "plan"}
+{"text": "how can i improve", "intent": "plan"}
+{"text": "what do i need to do", "intent": "plan"}
+{"text": "recommendations", "intent": "plan"}
+{"text": "next steps", "intent": "plan"}
+{"text": "to do list for my health", "intent": "plan"}
+{"text": "what changed", "intent": "trends"}
+{"text": "biggest changes recently", "intent": "trends"}
+{"text": "what is drifting", "intent": "trends"}
+{"text": "show me trends", "intent": "trends"}
+{"text": "what got worse", "intent": "trends"}
+{"text": "what improved", "intent": "trends"}
+{"text": "compare to my baseline", "intent": "trends"}
+{"text": "changes since launch", "intent": "trends"}
+{"text": "deviations from normal", "intent": "trends"}
+{"text": "what's different from preflight", "intent": "trends"}
+{"text": "hi", "intent": "help"}
+{"text": "hello", "intent": "help"}
+{"text": "what can you do", "intent": "help"}
+{"text": "help", "intent": "help"}
+{"text": "how do i use this", "intent": "help"}
+{"text": "who are you", "intent": "help"}
+{"text": "what questions can i ask", "intent": "help"}
+{"text": "hey", "intent": "help"}
+{"text": "good morning", "intent": "help"}
+{"text": "thanks", "intent": "help"}
+{"text": "have my headaches followed a pattern", "intent": "environment"}
+{"text": "headache pattern", "intent": "environment"}
+{"text": "when do i get headaches", "intent": "environment"}
+{"text": "why does my head hurt", "intent": "environment"}
+{"text": "is co2 causing my headaches", "intent": "environment"}
+{"text": "blurry vision lately", "intent": "environment"}
+{"text": "my eyes feel different", "intent": "environment"}
+{"text": "head pressure", "intent": "environment"}
+{"text": "how has sleep affected me", "intent": "sleep"}
+{"text": "sleep and alertness", "intent": "sleep"}
+{"text": "sleep debt", "intent": "sleep"}
+{"text": "why am i so tired in the morning", "intent": "sleep"}
+{"text": "why do i feel so low", "intent": "mood"}
+{"text": "feeling homesick", "intent": "mood"}
+{"text": "i'm not enjoying things anymore", "intent": "mood"}
+{"text": "my temperature was high", "intent": "immune"}
+{"text": "am i fighting an infection", "intent": "immune"}
+{"text": "cold sores again", "intent": "immune"}
+{"text": "reaction time is slow", "intent": "alertness"}
+{"text": "am i safe for robotics today", "intent": "alertness"}
+{"text": "what happened with the radiation", "intent": "radiation"}
+{"text": "the radiation event", "intent": "radiation"}
+{"text": "what is my blood sugar", "intent": "weight"}
+{"text": "is my glucose normal", "intent": "weight"}
+{"text": "blood glucose trend", "intent": "weight"}
+{"text": "am i getting enough protein", "intent": "weight"}
+{"text": "calorie intake", "intent": "weight"}
+{"text": "how is my diet", "intent": "weight"}
+{"text": "energy intake", "intent": "weight"}
+{"text": "am i hypoglycemic", "intent": "weight"}

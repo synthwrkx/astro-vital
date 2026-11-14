@@ -1,0 +1,29 @@
+{
+ "name": "AstroVital Onboard Health Model",
+ "id": "astrovital-onboard-v1",
+ "version": "1.0.0",
+ "runtime": "astrovital-onboard-runtime (pure Python, CPU, offline)",
+ "components": {
+  "intent_classifier": {
+   "file": "intents.json",
+   "type": "multinomial-naive-bayes",
+   "trained_with": "training/train_intents.py"
+  },
+  "checkin_extractor": {
+   "file": "lexicon.json",
+   "type": "lexicon+pattern-grammar"
+  },
+  "anomaly_detector": {
+   "type": "multivariate-z (diagonal Mahalanobis)",
+   "calibration": "per-astronaut, preflight baseline"
+  },
+  "trend_forecaster": {
+   "type": "least-squares trend + threshold crossing"
+  },
+  "nlg": {
+   "type": "template-based generation"
+  }
+ },
+ "anomaly_threshold": 2.5,
+ "forecast_horizon_days": 45
+}

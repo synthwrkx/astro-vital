@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AstroVital</title>
+  <meta name="description" content="Offline-first crew health self-monitoring for long-duration spaceflight.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">
+        <circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" stroke-width="2"/>
+        <path d="M5 17h6l3-7 4 13 3-8 2 2h4" fill="none" stroke="var(--accent)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+      </svg>
+      <span>AstroVital</span>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button data-tab="dashboard" class="active">Status</button>
+      <button data-tab="checkin">Check-in</button>
+      <button data-tab="trends">Trends</button>
+      <button data-tab="pvt">Alertness test</button>
+      <button data-tab="data">Data</button>
+      <button data-tab="settings">Settings</button>
+    </nav>
+    <div class="mission" id="missionBadge"></div>
+  </header>
+
+  <main id="view"></main>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <div class="modal-head"><h2 id="modalTitle"></h2><button class="icon-btn" data-close aria-label="Close">✕</button></div>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+  <div id="toast" class="toast" hidden></div>
+
+  <footer class="foot">Prototype decision-support tool · not a medical device · works fully offline · data stays on this device</footer>
+
+  <script src="engine.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
